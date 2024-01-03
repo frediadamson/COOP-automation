@@ -1,0 +1,19 @@
+{
+  "name": "coopproov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proov.js",
+  "scripts": {
+    "test": "mocha --no-timeout"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.0.1",
+    "chrome": "^0.1.0",
+    "driver": "^1.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
